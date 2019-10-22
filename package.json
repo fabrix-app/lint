@@ -1,6 +1,6 @@
 {
   "name": "@fabrix/lint",
-  "version": "1.0.0-alpha.3",
+  "version": "1.0.0-alpha.4",
   "description": "tslint rules for Fabrix",
   "main": "tslint-base.json",
   "scripts": {
